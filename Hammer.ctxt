@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=Hammer(java.lang.String)
+comment0.text=\r\n\ Creates\ an\ instance\ of\ Hammer\r\n\ \r\n\ @param\ direction\ Direction\ at\ which\ the\ hammer\ will\ be\ moving\ at\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Hammer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkHitMario()
+comment3.params=
+comment3.target=void\ scanMario()
+comment3.text=\r\n\ Scans\ for\ instances\ of\ Mario\ on\ the\ screen\ and\ adds\ it\ to\ a\ List\ of\ Marios.\ Mario\ can\ then\ be\ identified\ as\ there\ is\ only\ one\ instance\ of\ mario\ on\ the\ screen\ at\ all\ times\r\n
+comment4.params=
+comment4.target=void\ checkLeftWalls()
+comment5.params=
+comment5.target=void\ checkRightWalls()
+numComments=6

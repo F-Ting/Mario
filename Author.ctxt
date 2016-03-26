@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=displayText\ fontSize
+comment0.target=Author(java.lang.String,\ int)
+comment0.text=\r\n\ Creates\ a\ text\ object.\ The\ string\ will\ be\ shown\ in\ black.\r\n\ \r\n\ @param\ displayText\ \ \ the\ text\ that\ will\ be\ displayed\r\n\ @param\ fontSize\ \ \ \ \ \ the\ font\ size\r\n
+comment1.params=displayText\ fontSize\ color
+comment1.target=Author(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Creates\ a\ text\ object\ where\ the\ color\ of\ the\ text\ can\ be\ specified.\r\n\ type\ as\ a\ string,\ "white"\ for\ white\ text\r\n\ "black",\ for\ black\ text\r\n\ \r\n\ @param\ displayText\ \ \ the\ text\ that\ will\ be\ displayed\r\n\ @param\ fontSize\ \ \ \ \ \ the\ font\ size\r\n\ @param\ color\ \ \ \ \ \ \ \ \ the\ color\ of\ the\ text\r\n
+comment2.params=text
+comment2.target=void\ update(java.lang.String)
+numComments=3

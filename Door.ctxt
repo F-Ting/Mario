@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Door\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Stores\ the\ images\ of\ the\ animation\ in\ an\ array\ to\ be\ later\ used\ for\ animation.\r\n
+comment2.params=
+comment2.target=void\ remove()
+comment2.text=\r\n\ The\ actors\ who\ are\ originally\ after\ the\ barriar\ are\ allowed\ to\ exist\ after\ the\ barriar\ line.\r\n
+comment3.params=
+comment3.target=void\ animation()
+comment3.text=\r\n\ Performs\ the\ animation\ of\ the\ opening\ of\ the\ door.\r\n
+comment4.params=
+comment4.target=void\ stop()
+comment4.text=\r\n\ Do\ not\ allow\ Mario\ to\ pass\ the\ door\r\n
+comment5.params=
+comment5.target=void\ open()
+comment5.text=\r\n\ Open\ the\ door\ and\ let\ Mario\ pass.\r\n
+comment6.params=
+comment6.target=boolean\ checkOpen()
+comment6.text=\r\n\ Checks\ whether\ Mario\ can\ pass\ or\ not\r\n\ @return\ true-\ door\ is\ open,\ false-\ door\ is\ closed\r\n
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coin()
+comment1.params=beginTime
+comment1.target=Coin(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ coinBox\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ animation()
+comment4.text=\r\n\ Performs\ the\ animation\ of\ the\ coin\r\n
+comment5.params=
+comment5.target=void\ checkHit()
+comment5.text=\r\n\ Check\ if\ Mario\ collected\ the\ coin\r\n
+comment6.params=
+comment6.target=void\ increaseCoinNumber()
+comment7.params=
+comment7.target=int\ getCoinNumber()
+comment8.params=newNumber
+comment8.target=void\ setCoinNumber(int)
+numComments=9
